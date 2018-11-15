@@ -1,5 +1,6 @@
 require "spec_helper"
-require_relative "../"
+require_relative "../array_crud.rb
+"
 
 describe "#create_an_empty_array" do
   it "creates and returns and empty array" do 
